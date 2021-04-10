@@ -63,6 +63,11 @@ li {
     background-color: #efd9ca;
 }
 
+#fonts div {
+    display: inline-block;
+    width: 500px;
+}
+
 #source-code-pro {
     font-family: 'Source Code Pro', monospace;
 }
